@@ -1,0 +1,22 @@
+{
+    "name": "alex/script",
+    "description": "my scripts",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "sc\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexsandr Rebgun",
+            "email": "rebgun7@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "ext-pdo": "*"
+    }
+
+}
